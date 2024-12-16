@@ -1,0 +1,125 @@
+.dante1 {
+    display: flex; /* Активируем Flexbox */
+    align-items: center; /* Вертикальное выравнивание */
+  }
+  
+  .image {
+    width: 100px; /* Размер картинки */
+    height: auto;
+  }
+  
+  .text {
+    margin-left: 20px; /* Отступ между картинкой и текстом */
+  }
+  
+
+
+
+  .vergil {
+    display: flex; /* Активируем Flexbox */
+    align-items: center; /* Вертикальное выравнивание */
+  }
+  
+  .image {
+    width: 100px; /* Размер картинки */
+    height: auto;
+  }
+  
+  .text {
+    margin-left: 20px; /* Отступ между картинкой и текстом */
+  }
+  
+
+
+  .nero {
+    display: flex; 
+    align-items: center; 
+  }
+  
+  .image {
+    width: 100px; 
+    height: auto;
+  }
+  
+  .text {
+    margin-left: 20px; 
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+.trish{
+    display: flex; 
+    align-items: center; 
+  }
+  
+  .image {
+    width: 100px; 
+    height: auto;
+  }
+  
+  .text {
+    margin-left: 10px; 
+  }
+  
+
+
+  .V {
+    display: flex; 
+    align-items: center; 
+  }
+  
+  .image {
+    width: 100px; 
+    height: auto;
+  }
+  
+  .text {
+    margin-left: 20px; 
+  }
+  
+
+  .ledy{
+    display: flex; 
+    align-items: center; 
+  }
+  
+  .image {
+    width: 100px; 
+    height: auto;
+  }
+  
+  .text {
+    margin-left: 10px; 
+  }
+
+
+
+
+  .nico{
+    display: flex; 
+    align-items: center; 
+  }
+  
+  .image {
+    width: 100px; 
+    height: auto;
+  }
+  
+  .text {
+    margin-left: 10px; 
+  }
+
+
+
+
+  

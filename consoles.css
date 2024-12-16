@@ -1,0 +1,164 @@
+.ps2 {
+    display: flex; 
+    align-items: center; 
+  }
+  
+  .image {
+    width: 100px; 
+    height: auto;
+  }
+  
+  .text {
+    margin-left: 20px; 
+  }
+  .highlight {
+    color: rgb(0, 0, 0);
+  }
+
+
+
+
+  .ds{
+    display: flex; 
+    align-items: center; 
+  }
+  
+  .image {
+    width: 100px; 
+    height: auto;
+  }
+  .highlight {
+    color: rgb(190, 190, 190) ;
+  }
+
+  .text {
+    margin-left: 20px; 
+  }
+
+
+
+
+  .swich{
+    display: flex; 
+    align-items: center; 
+  }
+  
+  .image {
+    width: 100px; 
+    height: auto;
+  }
+  .highlight {
+    color: rgb(12, 12, 255) rgb(255, 0, 0) ;
+  }
+
+  .text {
+    margin-left: 20px; 
+  }
+
+
+
+
+  .ps4{
+    display: flex; 
+    align-items: center; 
+  }
+  
+  .image {
+    width: 100px; 
+    height: auto;
+  }
+  
+  .text {
+    margin-left: 20px; 
+  }
+
+
+
+
+
+  .ps{
+    display: flex; 
+    align-items: center; 
+  }
+  
+  .image {
+    width: 100px; 
+    height: auto;
+  }
+  .text {
+    margin-left: 20px; 
+  }
+ .highlight {
+    color:gray ;
+  }
+
+
+  
+
+  .WII{
+    display: flex; 
+    align-items: center; 
+  }
+  .image {
+    width: 100px; 
+    height: auto;
+  }
+  
+  .text {
+    margin-left: 20px; 
+  }
+  .highlight {
+    color: rgb(92, 92, 92) ;
+  }
+
+
+  .ps3{
+    display: flex; 
+    align-items: center; 
+  }
+  
+  .image {
+    width: 100px; 
+    height: auto;
+  }
+  
+  .text {
+    margin-left: 20px; 
+  }
+  .highlight {
+    color: rgb(0, 0, 0);
+  }
+
+
+  .xbox360{
+    display: flex; 
+    align-items: center; 
+  }
+  .highlight {
+    color: rgb(0, 255, 0);
+  }
+  .image {
+    width: 100px; 
+    height: auto;
+  }
+  .text {
+    margin-left: 20px; 
+  }
+  
+
+
+
+  .PSP{
+    display: flex; 
+    align-items: center; 
+  }
+  .highlight {
+    color: rgb(38, 22, 254);
+  }
+  .image {
+    width: 100px; 
+    height: auto;
+  }
+  .text {
+    margin-left: 20px; 
+  }
